@@ -12,6 +12,7 @@ pip-selfcheck.json
 
 .pydevproject
 .project
+.settings
 
 *.sublime-project
 *.sublime-workspace
